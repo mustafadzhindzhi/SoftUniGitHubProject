@@ -1,0 +1,4 @@
+function arif () {
+    cat;
+    dog
+}
